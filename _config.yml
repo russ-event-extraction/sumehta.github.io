@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Sneha Mehta Blog
+name: Sneha Mehta
 
 # Short bio or description (displayed in the header)
-description: PhD student in Natural Language Processing
+description: PhD student in Machine Learning, Datamining
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/816630903959126016/_ergFTEI_400x400.jpg
@@ -22,10 +22,10 @@ footer-links:
   facebook:
   flickr:
   github: sumehta
-  instagram:
+  instagram: https://www.instagram.com/sneha_u_mehta/
   linkedin: www.linkedin.com/in/mehtasneha
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss
   twitter: snehaSM
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: disqus_gxpZ4XgIIy
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
