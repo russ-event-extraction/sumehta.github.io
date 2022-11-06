@@ -6,7 +6,7 @@
 name: Sneha Mehta
 
 # Short bio or description (displayed in the header)
-description: PhD student in Machine Learning, Datamining
+description: Machine Learning Researcher, Twitter
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/816630903959126016/_ergFTEI_400x400.jpg
@@ -18,15 +18,15 @@ avatar: https://pbs.twimg.com/profile_images/816630903959126016/_ergFTEI_400x400
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: sudo777@vt.edu
+  email: smehta921@gmail.com
   facebook:
   flickr:
   github: sumehta
-  instagram: sneha_u_mehta
+#   instagram: sneha_u_mehta
   linkedin: www.linkedin.com/in/mehtasneha
   pinterest:
   rss: rss
-  twitter: snehaSM
+#   twitter: snehaSM
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://people.cs.vt.edu/sudo777
+# url: http://people.cs.vt.edu/sudo777
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
